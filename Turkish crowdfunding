@@ -1,0 +1,50 @@
+Additional Variable Information
+
+id: The unique identifier of the project.
+platform_adi: The crowdfunding platform where the project is hosted.
+kitle_fonlamasi_turu: Type of crowdfunding (e.g., reward, donation).
+kategori: Category of the project.
+fon_sekli: Funding method (e.g., all or nothing).
+proje_adi: Project name.
+proje_sahibi: Name of the project owner.
+proje_sahibi_cinsiyet: Gender of the project owner.
+kac_proje_destekledi: Number of projects the owner has backed.
+kac_projeye_abone: Number of projects the owner has subscribed to.
+kac_projenin_sahibi: Number of projects owned by the project owner.
+kac_proje_takiminda: Number of teams the project owner is part of.
+konum: Location of the project owner.
+bolge: Region of the project.
+yil: Year the project was launched.
+proje_baslama_tarihi: Start date of the project.
+proje_bitis_tarihi: End date of the project.
+gun_sayisi: Duration of the project in days.
+tanitim_videosu: Whether the project has a promotional video.
+video_uzunlugu: Length of the promotional video.
+gorsel_sayisi: Number of images related to the project.
+sss: Whether the project has a Frequently Asked Questions (FAQ) section.
+guncellemeler: Number of updates for the project.
+yorumlar: Number of comments on the project.
+destekci_sayisi: Number of backers for the project.
+odul_sayisi: Number of rewards offered in the project.
+ekip_kisi_sayisi: Number of people in the project team.
+web_sitesi: Whether the project has a website.
+sosyal_medya: Whether the project has social media accounts.
+sm_sayisi: Number of social media accounts for the project.
+sm_takipci: Number of social media followers for the project.
+etiket_sayisi: Number of tags used in the project description.
+icerik_kelime_sayisi: Number of words in the project description.
+proje_aciklamasi: Description of the project.
+hedef_miktari: Target amount of funding for the project.
+toplanan_tutar: Amount of funding collected for the project.
+destek_orani: Percentage of the target amount achieved.
+basari_durumu: Success status of the project (successful or unsuccessful).
+
+Class Labels
+
+kitle_fonlamasi_turu: reward, donation
+kategori: other, technology, art, music, film, games, fashion, food and beverage, publishing, design, photography
+fon_sekli: all or nothing, flexible
+proje_sahibi_cinsiyet: male, female, unknown
+konum: (all locations by cities)
+bolge: Marmara, Aegean, Mediterranean, Central Anatolia, Eastern Anatolia, Southeastern Anatolia, Black Sea
+basari_durumu: successful, unsuccessful
