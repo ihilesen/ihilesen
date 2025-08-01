@@ -1,3 +1,9 @@
+This dataset contains data on crowdfunding campaigns in Turkey. 
+The dataset includes various characteristics such as crowdfunding projects, project descriptions, targeted and raised funds, campaign durations, and number of backers. 
+Collected in 2022, this dataset provides a valuable resource for researchers who want to understand and analyze the crowdfunding ecosystem in Turkey. 
+In total, there are data from more than 1500 projects on 6 different platforms. 
+The dataset is particularly useful for training natural language processing (NLP) and machine learning models. 
+This dataset is an important reference point for studies on the characteristics of successful crowdfunding campaigns and provides comprehensive information for entrepreneurs, investors and researchers in Turkey.
 Additional Variable Information
 
 id: The unique identifier of the project.
